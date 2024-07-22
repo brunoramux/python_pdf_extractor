@@ -7,6 +7,10 @@ name = "pypi"
 "pdfminer.six" = "*"
 pdfminer = "*"
 pypdf2 = "*"
+pymupdf = "*"
+transformers = "*"
+torch = "*"
+sentencepiece = "*"
 
 [dev-packages]
 ipykernel = "*"
